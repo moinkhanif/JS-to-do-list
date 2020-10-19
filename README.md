@@ -1,6 +1,6 @@
 # JS-Todo List
 
-> A simple to-do list app which allows the user to create a project and assign task to it with the addition of edit and delete functionality. This simplifies one's day to day schedule and acts as a reminder.
+> A simple to-do list app that allows the user to create a project and assign a task to it with the addition of edit and delete functionality. This simplifies one's day to day schedule and acts as a reminder.
 
 ![list](https://user-images.githubusercontent.com/25789605/95614498-48905c00-0a6f-11eb-808e-f41bf8466d9a.png)
 
@@ -29,13 +29,18 @@ Clone or download the repository to your local machine
 
 Run `npm install` to install the project packages
 
-Ensure that you have node.js and npm installed in your machine.
+Ensure that you have node.js and npm installed on your machine.
 
 ### Usage
 
 Run `npm run dev` to bundle the packages for development. 
 
 Run `npm run build` when you want to deploy the project for production.
+
+## Potential Future Features
+
+ - Responsive design
+ - Move dependency from localStorage to a database.
 
 ## Authors
 
@@ -53,7 +58,7 @@ Run `npm run build` when you want to deploy the project for production.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](issues/).
 
